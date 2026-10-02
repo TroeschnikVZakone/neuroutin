@@ -1,0 +1,21 @@
+# Сборка
+dist/
+build/
+installer_output/
+*.spec.bak
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Данные
+data/
+*.db
+
+# ОС
+.DS_Store
+Thumbs.db
